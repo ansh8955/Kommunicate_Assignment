@@ -1,0 +1,58 @@
+.ecommerce{
+
+  color: #5553B7;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+button{
+  height: 36px;
+  margin-right: 8px;
+}
+
+.tryforfree{
+ background-color: #2DD35C;
+ color: white;
+ font-weight: bold;
+ border: none;
+ border-radius: 15px;
+ padding: 10px 15px;
+
+}
+
+.demo{
+  background-color: transparent;
+  color: #5553B7;
+  font-weight: bold;
+  border: 1px solid #5553B7;
+  border-radius: 15px;
+  padding: 10px 15px;
+  
+}
+.maindiv{
+  border: 1.5px solid #2DD35C;
+  width: 70%;
+  padding: 30px;
+  padding-left: 60px;
+  border-radius: 0 150px 10px 0;
+  position: relative;
+}
+
+.rightdiv{
+
+  border: 1px solid black;
+  height: 15vh;
+  width: 30%;
+  position: absolute;
+  left: 750px;
+  top: 70px;
+  bottom: 100px;
+  border-radius: 150px 0px 0px 10px;
+  background-color: #a4a3da9a;
+  border: none;
+}
+.container{
+
+  display: flex;
+  flex-direction: row;
+}
